@@ -10,6 +10,29 @@ import urllib
 import urllib2
 from flightaware import flightaware
 from hotels import hotelsearch
+from uber import uber_estimate_time
+from nyt_36hours import articlesearch
+
+
+class NewsHandler(tornado.web.RequestHandler): 
+	def get(self):
+		self.set_header("Content-Type", 'application/json; charset="utf-8"')
+		airport_code = self.get_argument('airport', True)
+		jsontxt = articlesearch(airport_code)
+		self.write(jsontxt)
+		
+class UberHandler(tornado.web.RequestHandler): 
+	def get(self):
+		self.set_header("Content-Type", 'application/json; charset="utf-8"')
+		#start_lat, start_long, dest_lat, dest_long
+		start_lat = self.get_argument('start_lat', True)
+		start_long = self.get_argument('start_long', True)
+		dest_lat = self.get_argument('dest_lat', True)
+		dest_long = self.get_argument('dest_long', True)
+
+		jsontxt = uber_estimate_time(start_lat, start_long, dest_lat, dest_long)
+		self.write(jsontxt)
+
 
 class HotelHandler(tornado.web.RequestHandler): 
 	def get(self):
@@ -59,7 +82,9 @@ class MainHandler(tornado.web.RequestHandler):
 application = tornado.web.Application([
     (r"/nearest_airport.cgi", MainHandler),
     (r"/flight.cgi", FlightHandler),
-    (r"/hotel.cgi", HotelHandler)
+    (r"/hotel.cgi", HotelHandler),
+    (r"/uber.cgi", UberHandler),
+    (r"/news.cgi", NewsHandler)
 ])
 
 if __name__ == "__main__":
