@@ -64,6 +64,7 @@ def flightaware(IATACode):
 	#print imgurl_orig
 	#print imgurl_dest
 	#print imgurl_dest
+	newsjson = articlesearch(flights['destination'])[1:-1]
 	
 	jsontxt = '{ "ident":"%s", "aircrafttype":"%s", "filed_departuretime":%d, "estimatedarrivaltime":%d, "origin":"%s", "destination":"%s", "originName":"%s", "originCity":"%s", "destinationName":"%s", "destinationCity":"%s", "origCityImgUrl":["%s", "%s", "%s"], "destCityImgUrl":["%s","%s","%s"], %s}' % (flights['ident'],flights['aircrafttype'],flights['filed_departuretime'],flights['estimatedarrivaltime'],flights['origin'],flights['destination'],flights['originName'],flights['originCity'],flights['destinationName'],flights['destinationCity'],imgurl_o_0,imgurl_o_1,imgurl_o_2,imgurl_d_0,imgurl_d_1,imgurl_d_2, newsjson)
 	print jsontxt
