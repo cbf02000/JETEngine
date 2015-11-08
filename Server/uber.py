@@ -14,10 +14,11 @@ def uber_estimate_time(start_lat, start_long, dest_lat, dest_long):
 	data = response.json()
 	print data
 	products = data["times"]
-	
+	uber_type = ''
 	for product in products:
 		if product['display_name'] == 'uberX':
 			estimate_time = product['estimate']
+			uber_type = product['localized_display_name']
 	
 	print estimate_time
 	
@@ -38,7 +39,7 @@ def uber_estimate_time(start_lat, start_long, dest_lat, dest_long):
 	travel_time = data_g["rows"][0]["elements"][0]["duration"]["value"]
 	print travel_time
 	
-	jsontxt = '{ "uber_estimate_sec": %d, "travel_estimate_sec": %d}' % (int(estimate_time), int(travel_time))
+	jsontxt = '{ "uber_estimate_sec": %d, "travel_estimate_sec": %d, "uber_type": "%s"}' % (int(estimate_time), int(travel_time), uber_type)
 	print jsontxt
 	return jsontxt
 
