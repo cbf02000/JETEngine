@@ -1,0 +1,415 @@
+url	title	city	lat	lon	code
+http://www.nytimes.com/2015/11/01/travel/what-to-do-in-36-hours-in-san-francisco.html	36 Hours in San Francisco	San Francisco	37.7749295	-122.4194155	KSFO
+http://www.nytimes.com/2015/10/25/travel/what-to-do-in-36-hours-in-capetown.html	36 Hours in Cape Town	Cape Town	-33.9248685	18.4240553	FACT
+http://www.nytimes.com/2015/10/18/travel/what-to-do-in-36-hours-in-eastern-tokyo.html	36 Hours in Eastern Tokyo	Eastern Tokyo	35.6251104	139.6562295	RJTT
+http://www.nytimes.com/2015/10/11/travel/what-to-do-in-36-hours-in-buenos-aires.html	36 Hours in Buenos Aires	Buenos Aires	-34.6036844	-58.3815591	SABE
+http://www.nytimes.com/2015/10/04/travel/what-to-do-in-36-hours-in-bologna-italy.html	36 Hours in Bologna, Italy	Bologna, Italy	44.494887	11.3426163	LIPE
+http://www.nytimes.com/2015/09/27/travel/what-to-do-in-36-hours-paris-right-bank.html	36 Hours in Paris, Right Bank	Paris, Right Bank	48.856614	2.3522219	LFPB
+http://www.nytimes.com/2015/09/20/travel/what-to-do-in-36-hours-in-boston.html	36 Hours in Boston	Boston	42.3600825	-71.0588801	KBOS
+http://www.nytimes.com/2015/09/13/travel/what-to-do-in-36-hours-in-portland.html	36 Hours in Portland, Ore.	Portland, Ore.	45.5230622	-122.6764816	KPDX
+http://www.nytimes.com/2015/09/07/travel/barcelona-travel-channel.html	36 Hours in Barcelona: Hidden Gems	Barcelona	41.3850639	2.1734035	LEBL
+http://www.nytimes.com/2015/09/06/travel/what-to-do-in-36-hours-in-rio-de-janeiro.html	36 Hours in Rio de Janeiro	Rio de Janeiro	-22.9068467	-43.1728965	SBRJ
+http://www.nytimes.com/2015/08/31/travel/36-hours-in-istanbul-differences-between-european-and-asian-side.html	36 Hours in Istanbul: Differences Between European and Asian Side	Istanbul	41.0082376	28.9783589	LTBA
+http://www.nytimes.com/2015/08/30/travel/what-to-do-in-36-hours-in-istanbul.html	36 Hours in Istanbul, Asian Side	Istanbul, Asian Side	41.0082376	28.9783589	LTBA
+http://www.nytimes.com/2015/08/24/travel/nashville-restaurants-travel-channel.html	36 Hours in Nashville: The Food Scene	Nashville	36.1626638	-86.7816016	KBNA
+http://www.nytimes.com/2015/08/23/travel/what-to-do-in-36-hours-in-burlington-vermont.html	36 Hours in Burlington, Vermont	Burlington, Vermont	44.4758825	-73.212072	KBTV
+http://www.nytimes.com/2015/08/09/travel/what-to-do-in-36-hours-in-provence.html	36 Hours in Provence	Provence	33.5414583	-112.2525593	KPHX
+http://www.nytimes.com/2015/07/26/travel/what-to-do-in-36-hours-in-siem-reap-cambodia.html	36 Hours in Siem Reap, Cambodia	Siem Reap, Cambodia	13.3670968	103.8448134	VDSR
+http://www.nytimes.com/2015/07/19/travel/what-to-do-in-36-hours-in-pittsburgh.html	36 Hours in Pittsburgh	Pittsburgh	40.4406248	-79.9958864	KPIT
+http://www.nytimes.com/2015/07/12/travel/what-to-do-in-36-hours-in-vilnius-lithuania.html	36 Hours in Vilnius, Lithuania	Vilnius, Lithuania	54.6871555	25.2796514	EYVI
+http://www.nytimes.com/2015/07/05/travel/what-to-do-in-36-hours-in-chengdu-china.html	36 Hours in Chengdu, China	Chengdu, China	30.572269	104.066541	ZUUU
+http://www.nytimes.com/2015/06/28/travel/what-to-do-in-36-hours-in-split-croatia.html	36 Hours in Split, Croatia	Split, Croatia	43.5081323	16.4401935	LDSP
+http://www.nytimes.com/2015/06/21/travel/what-to-do-in-36-hours-in-lima-peru.html	36 Hours in Lima, Peru	Lima, Peru	-12.046374	-77.0427934	SPIM
+http://www.nytimes.com/2015/06/14/travel/what-to-do-in-36-hours-in-zagreb-croatia.html	36 Hours in Zagreb, Croatia	Zagreb, Croatia	45.8150108	15.981919	LDZA
+http://www.nytimes.com/2015/06/07/travel/what-to-do-in-36-hours-in-savannah-georgia.html	36 Hours in Savannah, Ga.	Savannah, Ga.	32.0835407	-81.0998342	KSAV
+http://www.nytimes.com/2015/05/31/travel/what-to-do-in-36-hours-in-chapel-hill-carrboro.html	36 Hours in Chapel Hill-Carrboro, N.C.	Chapel Hill-Carrboro, N.C.	35.9101438	-79.0752895	KRDU
+http://www.nytimes.com/2015/05/24/travel/things-to-do-in-36-hours-in-bilbao-spain.html	36 Hours in Bilbao, Spain	Bilbao, Spain	43.2630126	-2.9349852	LEBB
+http://www.nytimes.com/2015/05/10/travel/things-to-do-in-36-hours-in-san-luis-obispo.html	36 Hours in San Luis Obispo, Calif.	San Luis Obispo, Calif.	35.2827524	-120.6596156	KSBP
+http://www.nytimes.com/2015/05/03/travel/things-to-do-in-36-hours-in-key-west-fla.html	36 Hours in Key West, Fla.	Key West, Fla.	24.5550593	-81.7799871	KEYW
+http://www.nytimes.com/2015/04/26/travel/what-to-do-in-36-hours-in-honolulu.html	36 Hours in Honolulu	Honolulu	21.3069444	-157.8583333	PHNL
+http://www.nytimes.com/2015/04/12/travel/what-to-do-in-36-hours-in-antigua-guatemala.html	36 Hours in Antigua, Guatemala	Antigua, Guatemala	14.5585707	-90.729523	MGGT
+http://www.nytimes.com/2015/04/05/travel/-2015-04-05-travel-what-to-do-in-36-hours-in-lisbon.html	36 Hours in Lisbon	Lisbon	38.7222524	-9.1393366	LPPT
+http://www.nytimes.com/2015/03/29/travel/what-to-do-in-36-hours-in-palm-beach-florida.html	36 Hours in Palm Beach, Fla.	Palm Beach, Fla.	26.7056206	-80.0364297	KPBI
+http://www.nytimes.com/2015/03/15/travel/what-to-do-in-36-hours-in-los-cabos-mexico.html	36 Hours in Los Cabos, Mexico	Los Cabos, Mexico	22.8905327	-109.9167371	MMSD
+http://www.nytimes.com/2015/03/08/travel/what-to-do-in-36-hours-in-rome.html	36 Hours in Rome	Rome	41.9027835	12.4963655	LIRA
+http://www.nytimes.com/2015/03/01/travel/what-to-do-in-36-hours-lake-tahoe.html	36 Hours in Lake Tahoe	Lake Tahoe	39.0968493	-120.0323507	KRNO
+http://www.nytimes.com/2015/02/22/travel/what-to-do-in-36-hours-in-beijing.html	36 Hours in Beijing	Beijing	39.904211	116.407395	ZBAA
+http://www.nytimes.com/2015/02/15/travel/what-to-do-in-koreatown-los-angeles.html	36 Hours in Koreatown, Los Angeles	Koreatown, Los Angeles	34.0609876	-118.3023579	KBUR
+http://www.nytimes.com/2015/02/08/travel/what-to-do-in-36-hours-anguilla.html	36 Hours in Anguilla	Anguilla	18.220554	-63.068615	TQPF
+http://www.nytimes.com/2015/02/01/travel/belfast-northern-ireland.html	36 Hours in Belfast, Northern Ireland	Belfast, Northern Ireland	54.597285	-5.93012	EGAC
+http://www.nytimes.com/2015/01/18/travel/what-to-do-in-36-hours-memphis.html	36 Hours in Memphis	Memphis	35.1495343	-90.0489801	KMEM
+http://www.nytimes.com/2015/01/11/travel/what-to-do-in-36-hours-in-milan.html	36 Hours in Milan	Milan	45.4654219	9.1859243	LIML
+http://www.nytimes.com/2015/01/04/travel/what-to-do-in-36-hours-in-vienna.html	36 Hours in Vienna	Vienna	48.2081743	16.3738189	LOWW
+http://www.nytimes.com/2014/12/28/travel/what-to-do-in-36-hours-in-casablanca.html	36 Hours in Casablanca	Casablanca	33.5731104	-7.5898434	GMMN
+http://www.nytimes.com/2014/12/21/travel/things-to-do-in-36-hours-in-strasbourg-france.html	36 Hours in Strasbourg, France	Strasbourg, France	48.5734053	7.7521113	LFST
+http://www.nytimes.com/2014/12/14/travel/things-to-do-in-36-hours-in-whistler-british-columbia.html	36 Hours in Whistler, British Columbia	Whistler, British Columbia	50.1163196	-122.9573563	
+http://www.nytimes.com/2014/12/07/travel/things-to-do-in-36-hours-in-phnom-penh.html	36 Hours in Phnom Penh	Phnom Penh	11.5448729	104.8921668	VDPP
+http://www.nytimes.com/2014/11/30/travel/things-to-do-in-36-hours-in-santa-fe.html	36 Hours in Santa Fe	Santa Fe	35.6869752	-105.937799	KABQ
+http://www.nytimes.com/2014/11/23/travel/things-to-do-in-36-hours-in-seattle.html	36 Hours in Seattle	Seattle	47.6062095	-122.3320708	KW55
+http://www.nytimes.com/2014/11/16/travel/things-to-do-in-36-hours-in-dublin-ireland.html	36 Hours in Dublin	Dublin	53.3498053	-6.2603097	EIDW
+http://www.nytimes.com/2014/11/09/travel/things-to-do-in-36-hours-in-tulum-mexico.html	36 Hours in Tulum, Mexico	Tulum, Mexico	20.2114185	-87.4653502	MMCZ
+http://www.nytimes.com/2014/11/02/travel/things-to-do-in-36-hours-in-hanoi.html	36 Hours in Hanoi	Hanoi	21.0277644	105.8341598	VVNB
+http://www.nytimes.com/2014/10/26/travel/things-to-do-in-36-hours-in-naples-fla.html	36 Hours in Naples, Fla.	Naples, Fla.	26.1420358	-81.7948103	KAPF
+http://www.nytimes.com/2014/10/19/travel/things-to-do-in-36-hours-in-athens.html	36 Hours in Athens	Athens	37.983917	23.7293599	LGAV
+http://www.nytimes.com/2014/10/12/travel/things-to-do-in-36-hours-in-berkeley-calif.html	36 Hours in Berkeley, Calif.	Berkeley, Calif.	37.8715926	-122.272747	KOAK
+http://www.nytimes.com/2014/10/05/travel/things-to-do-in-36-hours-in-copenhagen.html	36 Hours in Copenhagen	Copenhagen	55.6760968	12.5683371	EKCH
+http://www.nytimes.com/2014/09/28/travel/things-to-do-in-36-hours-in-florence-italy.html	36 Hours in Florence, Italy	Florence, Italy	43.7695604	11.2558136	LIRQ
+http://www.nytimes.com/2014/09/14/travel/things-to-do-in-36-hours-in-cartagena-colombia.html	36 Hours in Cartagena, Colombia	Cartagena, Colombia	10.3910485	-75.4794257	SKCG
+http://www.nytimes.com/2014/09/07/travel/things-to-do-in-36-hours-in-nashville.html	36 Hours in Nashville	Nashville	36.1626638	-86.7816016	KBNA
+http://www.nytimes.com/2014/08/31/travel/things-to-do-in-36-hours-in-charlotte-nc.html	36 Hours in Charlotte, N.C.	Charlotte, N.C.	35.2270869	-80.8431267	KCLT
+http://www.nytimes.com/2014/08/24/travel/36-hours-in-glasgow.html	36 Hours in Glasgow	Glasgow	55.864237	-4.251806	EGPF
+http://www.nytimes.com/2014/08/17/travel/36-hours-in-nice-france.html	36 Hours in Nice, France	Nice, France	43.7101728	7.2619532	LFMN
+http://www.nytimes.com/2014/08/03/travel/36-hours-in-green-bay-wis.html	36 Hours in Green Bay, Wis.	Green Bay, Wis.	44.519159	-88.019826	KGRB
+http://www.nytimes.com/2014/07/27/travel/36-hours-in-provincetown-mass.html	36 Hours in Provincetown, Mass.	Provincetown, Mass.	42.0584412	-70.1786425	KPVC
+http://www.nytimes.com/2014/07/20/travel/36-hours-in-dakar-senegal.html	36 Hours in Dakar, Senegal	Dakar, Senegal	14.7645042	-17.3660286	GOOY
+http://www.nytimes.com/2014/07/13/travel/36-hours-in-graz-austria.html	36 Hours in Graz, Austria	Graz, Austria	47.070714	15.439504	LOWG
+http://www.nytimes.com/2014/07/06/travel/36-hours-in-the-berkshires.html	36 Hours in the Berkshires	the Berkshires	42.1668	-73.1496	KBDL
+http://www.nytimes.com/2014/06/29/travel/36-hours-in-stockholm.html	36 Hours in Stockholm	Stockholm	59.3293235	18.0685808	ESSB
+http://www.nytimes.com/2014/06/22/travel/36-hours-in-madrid.html	36 Hours in Madrid	Madrid	40.4167754	-3.7037902	LEMD
+http://www.nytimes.com/2014/06/15/travel/36-hours-in-venice.html	36 Hours in Venice	Venice	45.4408474	12.3155151	LIPZ
+http://www.nytimes.com/2014/06/08/travel/36-hours-in-canberra-australia.html	36 Hours in Canberra, Australia	Canberra, Australia	-35.2819998	149.1286843	YSCB
+http://www.nytimes.com/2014/05/18/travel/36-hours-in-washington-dc.html	36 Hours in Washington, D.C.	Washington, D.C.	38.9071923	-77.0368707	KDCA
+http://www.nytimes.com/2014/05/11/travel/36-hours-in-ho-chi-minh-city-vietnam.html	36 Hours in Ho Chi Minh City, Vietnam	Ho Chi Minh City, Vietnam	10.8230989	106.6296638	VVTS
+http://www.nytimes.com/2014/05/04/travel/36-hours-in-zanzibar-tanzania.html	36 Hours in Zanzibar, Tanzania	Zanzibar, Tanzania	-6.165917	39.202641	HTZA
+http://www.nytimes.com/2014/04/27/travel/36-hours-in-belo-horizonte-brazil.html	36 Hours in Belo Horizonte, Brazil	Belo Horizonte, Brazil	-19.9166813	-43.9344931	SBCF
+http://www.nytimes.com/2014/04/20/travel/36-hours-in-prague.html	36 Hours in Prague	Prague	50.0755381	14.4378005	LKPR
+http://www.nytimes.com/2014/04/13/travel/36-hours-in-seville-spain.html	36 Hours in Seville, Spain	Seville, Spain	37.3890924	-5.9844589	LEZL
+http://www.nytimes.com/2014/04/06/travel/36-hours-in-hood-river-ore.html	36 Hours in Hood River, Ore.	Hood River, Ore.	45.7053966	-121.5214623	KPDX
+http://www.nytimes.com/2014/03/30/travel/36-hours-in-jamaica.html	36 Hours in Jamaica	Jamaica	18.109581	-77.297508	MKJP
+http://www.nytimes.com/2014/03/23/travel/36-hours-in-mexico-city.html	36 Hours in Mexico City	Mexico City	19.4326077	-99.133208	MMMX
+http://www.nytimes.com/2014/03/16/travel/36-hours-in-nassau-the-bahamas.html	36 Hours in Nassau, the Bahamas	Nassau, the Bahamas	25.0479835	-77.355413	MYNN
+http://www.nytimes.com/2014/03/09/travel/36-hours-in-raleigh-nc.html	36 Hours in Raleigh, N.C.	Raleigh, N.C.	35.7795897	-78.6381787	KRDU
+http://www.nytimes.com/2014/03/02/travel/36-hours-in-kyoto-japan.html	36 Hours in Kyoto, Japan	Kyoto, Japan	35.0116363	135.7680294	RJOO
+http://www.nytimes.com/2014/02/23/travel/36-hours-in-upper-manhattan.html	36 Hours in Upper Manhattan	Upper Manhattan	40.8240478	-73.9447643	KLGA
+http://www.nytimes.com/2014/02/16/travel/36-hours-in-baton-rouge-la.html	36 Hours in Baton Rouge, La.	Baton Rouge, La.	30.4582829	-91.1403196	KBTR
+http://www.nytimes.com/2014/02/09/travel/36-hours-in-yangon-myanmar.html	36 Hours in Yangon, Myanmar	Yangon, Myanmar	16.8660694	96.195132	VYYY
+http://www.nytimes.com/2014/02/02/travel/36-hours-in-manchester-vt.html	36 Hours in Manchester, Vt.	Manchester, Vt.	43.1636875	-73.0723268	KRUT
+http://www.nytimes.com/2014/01/26/travel/36-hours-in-basel-switzerland.html	36 Hours in Basel, Switzerland	Basel, Switzerland	47.5595986	7.5885761	LFSB
+http://www.nytimes.com/2014/01/19/travel/36-hours-in-sydney.html	36 Hours in Sydney	Sydney	-33.8674869	151.2069902	YSSY
+http://www.nytimes.com/2014/01/05/travel/36-hours-in-chicago.html	36 Hours in Chicago	Chicago	41.8781136	-87.6297982	KMDW
+http://www.nytimes.com/2013/12/29/travel/36-hours-in-south-beach-miami-beach.html	36 Hours in South Beach, Miami Beach	South Beach, Miami Beach	25.7826123	-80.1340772	KMIA
+http://www.nytimes.com/2013/12/22/travel/36-hours-in-jackson-hole-wyo.html	36 Hours in Jackson Hole, Wyo.	Jackson Hole, Wyo.	43.4799291	-110.7624282	KJAC
+http://www.nytimes.com/2013/12/15/travel/36-hours-in-colombo-sri-lanka.html	36 Hours in Colombo, Sri Lanka	Colombo, Sri Lanka	6.9270786	79.861243	VCBI
+http://www.nytimes.com/2013/12/08/travel/36-hours-in-kauai-hawaii.html	36 Hours in Kauai, Hawaii	Kauai, Hawaii	21.9661076	-159.5737912	PHLI
+http://www.nytimes.com/2013/12/01/travel/36-hours-in-shanghai.html	36 Hours in Shanghai	Shanghai	31.230416	121.473701	ZSSS
+http://www.nytimes.com/2013/11/24/travel/36-hours-in-charleston-sc.html	36 Hours in Charleston, S.C.	Charleston, S.C.	32.7764749	-79.9310512	KCHS
+http://www.nytimes.com/2013/11/17/travel/36-hours-in-chianti-italy.html	36 Hours in Chianti, Italy	Chianti, Italy	43.7304639	11.3328574	LIRQ
+http://www.nytimes.com/2013/11/10/travel/36-hours-in-aruba.html	36 Hours in Aruba	Aruba	12.52111	-69.968338	TNCA
+http://www.nytimes.com/2013/10/27/travel/36-hours-in-milwaukee.html	36 Hours in Milwaukee	Milwaukee	43.0389025	-87.9064736	KMKE
+http://www.nytimes.com/2013/10/20/travel/36-hours-in-cardiff-wales.html	36 Hours in Cardiff, Wales	Cardiff, Wales	51.481581	-3.17909	EGFF
+http://www.nytimes.com/2013/10/13/travel/36-hours-in-sarajevo-bosnia-and-herzegovina.html	36 Hours in Sarajevo, Bosnia and Herzegovina	Sarajevo, Bosnia and Herzegovina	43.8562586	18.4130763	LQSA
+http://www.nytimes.com/2013/10/06/travel/36-hours-in-antwerp-belgium.html	36 Hours in Antwerp, Belgium	Antwerp, Belgium	51.2194475	4.4024643	EBAW
+http://www.nytimes.com/2013/09/29/travel/36-hours-in-hampstead-london.html	36 Hours in Hampstead, London	Hampstead, London	51.5556715	-0.1762025	EGLC
+http://www.nytimes.com/2013/09/22/travel/36-hours-in-reykjavik.html	36 Hours in Reykjavik	Reykjavik	64.1265206	-21.8174393	BIRK
+http://www.nytimes.com/2013/09/15/travel/36-hours-in-buenos-aires.html	36 Hours in Buenos Aires	Buenos Aires	-34.6036844	-58.3815591	SABE
+http://www.nytimes.com/2013/09/01/travel/36-hours-in-the-brandywine-valley-pa.html	36 Hours in the Brandywine Valley	the Brandywine Valley	40.520342	-81.4953952	KCAK
+http://www.nytimes.com/2013/08/25/travel/36-hours-in-izmir-turkey.html	36 Hours in Izmir, Turkey	Izmir, Turkey	38.423734	27.142826	LTBJ
+http://www.nytimes.com/2013/08/18/travel/36-hours-in-monaco.html	36 Hours in Monaco	Monaco	43.7384176	7.4246158	LNMC
+http://www.nytimes.com/2013/08/11/travel/36-hours-in-lecce-italy.html	36 Hours in Lecce, Italy	Lecce, Italy	40.3515155	18.1750161	LIBR
+http://www.nytimes.com/2013/08/04/travel/36-hours-in-portsmouth-nh.html	36 Hours in Portsmouth, N.H.	Portsmouth, N.H.	43.0717552	-70.7625532	KMHT
+http://www.nytimes.com/2013/07/28/travel/36-hours-in-the-hudson-valley-new-york.html	36 Hours in the Hudson Valley, New York	the Hudson Valley, New York	41.8444557	-74.0742332	KSWF
+http://www.nytimes.com/2013/07/21/travel/36-hours-in-hilton-head-island-sc.html	36 Hours in Hilton Head Island, S.C.	Hilton Head Island, S.C.	32.216316	-80.752608	KHXD
+http://www.nytimes.com/2013/07/14/travel/36-hours-in-edinburgh.html	36 Hours in Edinburgh	Edinburgh	55.953252	-3.188267	EGPH
+http://www.nytimes.com/2013/06/30/travel/36-hours-in-gettysburg-pa.html	36 Hours in Gettysburg, Pa.	Gettysburg, Pa.	39.8309293	-77.2310955	KMDT
+http://www.nytimes.com/2013/06/23/travel/36-hours-in-vancouver-british-columbia.html	36 Hours in Vancouver, British Columbia	Vancouver, British Columbia	49.2827291	-123.1207375	CYHC
+http://www.nytimes.com/2013/06/16/travel/36-hours-in-oslo.html	36 Hours in Oslo	Oslo	59.9138688	10.7522454	ENGM
+http://www.nytimes.com/2013/06/09/travel/36-hours-in-verona-italy.html	36 Hours in Verona, Italy	Verona, Italy	45.4383842	10.9916215	LIPX
+http://www.nytimes.com/2013/06/02/travel/36-hours-in-jackson-miss.html	36 Hours in Jackson, Miss.	Jackson, Miss.	32.2987573	-90.1848103	KJAN
+http://www.nytimes.com/2013/05/26/travel/36-hours-in-auckland-new-zealand.html	36 Hours in Auckland, New Zealand	Auckland, New Zealand	-36.8484597	174.7633315	NZAA
+http://www.nytimes.com/2013/05/19/travel/36-hours-in-texas-hill-country.html	36 Hours in Texas Hill Country	Texas Hill Country	29.5894904	-98.3759417	KSAT
+http://www.nytimes.com/2013/05/12/travel/36-hours-in-las-vegas.html	36 Hours in Las Vegas	Las Vegas	36.1699412	-115.1398296	KLAS
+http://www.nytimes.com/2013/05/05/travel/36-hours-in-tokyo.html	36 Hours in Tokyo	Tokyo	35.6894875	139.6917064	RJTT
+http://www.nytimes.com/2013/04/28/travel/36-hours-in-salta-argentina.html	36 Hours in Salta, Argentina	Salta, Argentina	-24.7830773	-65.4103739	SASA
+http://www.nytimes.com/2013/04/21/travel/36-hours-in-cannes-france.html	36 Hours in Cannes, France	Cannes, France	43.552847	7.017369	LFMN
+http://www.nytimes.com/2013/04/14/travel/36-hours-in-taipei-taiwan.html	36 Hours in Taipei, Taiwan	Taipei, Taiwan	25.0329694	121.5654177	RCSS
+http://www.nytimes.com/2013/04/07/travel/36-hours-in-san-diego.html	36 Hours in San Diego	San Diego	32.715738	-117.1610838	KSAN
+http://www.nytimes.com/2013/03/31/travel/36-hours-in-bangalore-india.html	36 Hours in Bangalore, India	Bangalore, India	12.9715987	77.5945627	VOBL
+http://www.nytimes.com/2013/03/24/travel/36-hours-in-brisbane-australia.html	36 Hours in Brisbane, Australia	Brisbane, Australia	-27.4710107	153.0234489	YBBN
+http://www.nytimes.com/2013/03/17/travel/36-hours-in-bangkok.html	36 Hours in Bangkok	Bangkok	13.7563309	100.5017651	VTBS
+http://www.nytimes.com/2013/03/10/travel/36-hours-in-san-miguel-de-allende-mexico.html	36 Hours in San Miguel de Allende, Mexico	San Miguel de Allende, Mexico	20.9144491	-100.745235	MMQT
+http://www.nytimes.com/2013/03/03/travel/36-hours-in-panama-city-beach-fla.html	36 Hours in Panama City Beach, Fla.	Panama City Beach, Fla.	30.1765914	-85.8054879	KPFN
+http://www.nytimes.com/2013/02/24/travel/36-hours-in-davos-switzerland.html	36 Hours in Davos, Switzerland	Davos, Switzerland	46.8027453	9.8359701	EDNY
+http://www.nytimes.com/2013/02/17/travel/36-hours-in-melbourne-australia.html	36 Hours in Melbourne, Australia	Melbourne, Australia	-37.814107	144.96328	YMML
+http://www.nytimes.com/2013/02/10/travel/36-hours-in-san-juan-puerto-rico.html	36 Hours in San Juan, Puerto Rico	San Juan, Puerto Rico	18.4663338	-66.1057217	TJIG
+http://www.nytimes.com/2013/02/03/travel/36-hours-in-innsbruck-austria.html	36 Hours in Innsbruck, Austria	Innsbruck, Austria	47.2692124	11.4041024	LOWI
+http://www.nytimes.com/2013/01/27/travel/36-hours-in-marin-county-calif.html	36 Hours in Marin County, Calif.	Marin County, Calif.	38.083403	-122.7633036	KSFO
+http://www.nytimes.com/2013/01/20/travel/36-hours-in-durham-nc.html	36 Hours in Durham, N.C.	Durham, N.C.	35.9940329	-78.898619	KRDU
+http://www.nytimes.com/2013/01/13/travel/36-hours-in-naples-italy.html	36 Hours in Naples, Italy	Naples, Italy	40.8517746	14.2681244	LIRN
+http://www.nytimes.com/2013/01/06/travel/36-hours-in-philadelphia.html	36 Hours in Philadelphia	Philadelphia	39.9525839	-75.1652215	KPHL
+http://www.nytimes.com/2012/12/30/travel/36-hours-in-el-paso-tex.html	36 Hours in El Paso, Tex.	El Paso, Tex.	31.7775757	-106.4424559	KELP
+http://www.nytimes.com/2012/12/23/travel/36-hours-in-queens-ny.html	36 Hours in Queens, N.Y.	Queens, N.Y.	40.7282239	-73.7948516	KLGA
+http://www.nytimes.com/2012/12/16/travel/36-hours-in-sarasota-fla.html	36 Hours in Sarasota, Fla.	Sarasota, Fla.	27.3364347	-82.5306527	KSRQ
+http://www.nytimes.com/2012/12/09/travel/36-hours-in-steamboat-springs-colo.html	36 Hours in Steamboat Springs, Colo.	Steamboat Springs, Colo.	40.4849769	-106.8317158	KHDN
+http://www.nytimes.com/2012/12/02/travel/36-hours-in-lijiang-china.html	36 Hours in Lijiang, China	Lijiang, China	26.855047	100.227751	ZPLJ
+http://www.nytimes.com/2012/11/25/travel/36-hours-in-kolkata-india.html	36 Hours in Kolkata, India	Kolkata, India	22.572646	88.363895	VECC
+http://www.nytimes.com/2012/11/18/travel/36-hours-in-ljubljana-slovenia.html	36 Hours in Ljubljana, Slovenia	Ljubljana, Slovenia	46.0569465	14.5057515	LJLJ
+http://www.nytimes.com/2012/11/04/travel/36-hours-in-macau.html	36 Hours in Macau	Macau	22.198745	113.543873	
+http://www.nytimes.com/2012/10/28/travel/36-hours-in-new-haven-conn.html	36 Hours in New Haven, Conn.	New Haven, Conn.	41.308274	-72.9278835	KHVN
+http://www.nytimes.com/2012/10/21/travel/36-hours-in-modena-italy.html	36 Hours in Modena, Italy	Modena, Italy	44.647128	10.9252269	LIPE
+http://www.nytimes.com/2012/10/14/travel/36-hours-in-siena-italy.html	36 Hours in Siena, Italy	Siena, Italy	43.318809	11.3307574	LIRQ
+http://www.nytimes.com/2012/10/07/travel/36-hours-in-gothenburg-sweden.html	36 Hours in Gothenburg, Sweden	Gothenburg, Sweden	57.70887	11.97456	ESGP
+http://www.nytimes.com/2012/09/30/travel/36-hours-in-dubrovnik-croatia.html	36 Hours in Dubrovnik, Croatia	Dubrovnik, Croatia	42.6506606	18.0944238	LDDU
+http://www.nytimes.com/2012/09/23/travel/36-hours-in-baltimore.html	36 Hours in Baltimore	Baltimore	39.2903848	-76.6121893	KBWI
+http://www.nytimes.com/2012/09/16/travel/36-hours-in-managua-nicaragua.html	36 Hours in Managua, Nicaragua	Managua, Nicaragua	12.1149926	-86.2361744	MNMG
+http://www.nytimes.com/2012/09/09/travel/36-hours-in-galway-ireland.html	36 Hours in Galway, Ireland	Galway, Ireland	53.270668	-9.0567905	EICM
+http://www.nytimes.com/2012/09/02/travel/36-hours-in-sofia-bulgaria.html	36 Hours in Sofia, Bulgaria	Sofia, Bulgaria	42.6977082	23.3218675	LBSF
+http://www.nytimes.com/2012/08/26/travel/36-hours-in-montpelier-vt.html	36 Hours in Montpelier, Vt.	Montpelier, Vt.	44.2600593	-72.5753869	KBTV
+http://www.nytimes.com/2012/08/19/travel/36-hours-in-johannesburg.html	36 Hours in Johannesburg	Johannesburg	-26.2041028	28.0473051	FAJS
+http://www.nytimes.com/2012/08/12/travel/36-hours-in-montpellier-france.html	36 Hours in Montpellier, France	Montpellier, France	43.610769	3.876716	LFMT
+http://www.nytimes.com/2012/08/05/travel/36-hours-in-midcoast-maine.html	36 Hours in Midcoast Maine	Midcoast Maine	44.0590674	-69.4975782	KRKD
+http://www.nytimes.com/2012/07/29/travel/36-hours-in-toronto.html	36 Hours in Toronto	Toronto	43.653226	-79.3831843	
+http://www.nytimes.com/2012/07/15/travel/36-hours-in-providence-ri.html	36 Hours in Providence, R.I.	Providence, R.I.	41.8239891	-71.4128343	KPVD
+http://www.nytimes.com/2012/07/08/travel/36-hours-in-helsinki-finland.html	36 Hours in Helsinki, Finland	Helsinki, Finland	60.1733244	24.9410248	EFHK
+http://www.nytimes.com/2012/07/01/travel/36-hours-in-turin-italy.html	36 Hours in Turin, Italy	Turin, Italy	45.070312	7.6868565	LIMF
+http://www.nytimes.com/2012/06/24/travel/36-hours-in-kiev-ukraine.html	36 Hours in Kiev, Ukraine	Kiev, Ukraine	50.4501	30.5234	UKKK
+http://www.nytimes.com/2012/06/10/travel/36-hours-in-osaka-japan.html	36 Hours in Osaka, Japan	Osaka, Japan	34.6937378	135.5021651	RJOO
+http://www.nytimes.com/2012/06/03/travel/36-hours-in-oxford-england.html	36 Hours in Oxford, England	Oxford, England	51.7520209	-1.2577263	EGVN
+http://www.nytimes.com/2012/05/27/travel/36-hours-in-dresden-germany.html	36 Hours in Dresden, Germany	Dresden, Germany	51.0504088	13.7372621	EDDC
+http://www.nytimes.com/2012/05/20/travel/36-hours-in-napa-valley.html	36 Hours in Napa Valley	Napa Valley	38.4274315	-122.3943299	KSMF
+http://www.nytimes.com/2012/05/13/travel/36-hours-in-hyderabad-india.html	36 Hours in Hyderabad, India	Hyderabad, India	17.385044	78.486671	VOHS
+http://www.nytimes.com/2012/05/06/travel/36-hours-in-barcelona-spain.html	36 Hours in Barcelona, Spain	Barcelona, Spain	41.3850639	2.1734035	LEBL
+http://www.nytimes.com/2012/04/29/travel/36-hours-in-east-london.html	36 Hours in East London	East London	51.5073509	-0.1277583	EGLC
+http://www.nytimes.com/2012/04/22/travel/36-hours-in-puebla-mexico.html	36 Hours in Puebla, Mexico	Puebla, Mexico	19.0412967	-98.2061996	MMPB
+http://www.nytimes.com/2012/04/15/travel/36-hours-in-lyon-france.html	36 Hours in Lyon, France	Lyon, France	45.764043	4.835659	LFLL
+http://www.nytimes.com/2012/04/08/travel/36-hours-in-mendoza-argentina.html	36 Hours in Mendoza, Argentina	Mendoza, Argentina	-32.8894587	-68.8458386	SAME
+http://www.nytimes.com/2012/03/25/travel/36-hours-in-vientiane-laos.html	36 Hours in Vientiane, Laos	Vientiane, Laos	17.9757058	102.6331035	VLVT
+http://www.nytimes.com/2011/11/27/travel/36-hours-in-porto-portugal.html	36 Hours in Porto, Portugal	Porto, Portugal	41.1579438	-8.6291053	LPPR
+http://www.nytimes.com/2011/11/20/travel/36-hours-in-santa-barbara-calif.html	36 Hours in Santa Barbara, Calif.	Santa Barbara, Calif.	34.4208305	-119.6981901	KSBA
+http://www.nytimes.com/2011/11/13/travel/36-hours-in-st-lucia.html	36 Hours in St. Lucia	St. Lucia	13.909444	-60.978893	TLPC
+http://www.nytimes.com/2011/10/30/travel/36-hours-in-cape-town.html	36 Hours in Cape Town	Cape Town	-33.9248685	18.4240553	FACT
+http://www.nytimes.com/2011/10/23/travel/36-hours-in-albuquerque.html	36 Hours in Albuquerque	Albuquerque	35.0853336	-106.6055534	KABQ
+http://www.nytimes.com/2011/10/16/travel/36-hours-in-quebec-city.html	36 Hours in Quebec City	Quebec City	46.8032826	-71.242796	CYQB
+http://www.nytimes.com/2011/10/09/travel/36-hours-in-ann-arbor-mich.html	36 Hours in Ann Arbor, Mich.	Ann Arbor, Mich.	42.2808256	-83.7430378	KYIP
+http://www.nytimes.com/2011/10/02/travel/36-hours-in-krakow-poland.html	36 Hours in Krakow, Poland	Krakow, Poland	50.0646501	19.9449799	EPKK
+http://www.nytimes.com/2011/09/25/travel/36-hours-in-perugia-italy.html	36 Hours in Perugia, Italy	Perugia, Italy	43.1107168	12.3908279	LIRZ
+http://www.nytimes.com/2011/09/18/travel/36-hours-in-quito-ecuador.html	36 Hours in Quito, Ecuador	Quito, Ecuador	-0.1806532	-78.4678382	SEQU
+http://www.nytimes.com/2011/09/11/travel/36-hours-in-bern-switzerland.html	36 Hours in Bern, Switzerland	Bern, Switzerland	46.9479739	7.4474468	LSZB
+http://www.nytimes.com/2011/08/28/travel/36-hours-in-portland-ore.html	36 Hours in Portland, Ore.	Portland, Ore.	45.5230622	-122.6764816	KPDX
+http://www.nytimes.com/2011/08/21/travel/36-hours-in-downtown-manhattan.html	36 Hours in Downtown Manhattan	Downtown Manhattan	39.1836082	-96.5716694	KMHK
+http://www.nytimes.com/2011/08/14/travel/36-hours-in-marseille.html	36 Hours in Marseille	Marseille	43.296482	5.36978	LFML
+http://www.nytimes.com/2011/07/31/travel/36-hours-in-budapest.html	36 Hours in Budapest	Budapest	47.497912	19.040235	LHBP
+http://www.nytimes.com/2011/07/24/travel/36-hours-in-aspen-colo.html	36 Hours in Aspen, Colo.	Aspen, Colo.	39.1910983	-106.8175387	KEGE
+http://www.nytimes.com/2011/07/17/travel/36-hours-in-bar-harbor.html	36 Hours in Bar Harbor, Me.	Bar Harbor, Me.	44.3876119	-68.2039123	KBHB
+http://www.nytimes.com/2011/07/10/travel/36-hours-in-honolulu.html	36 Hours in Honolulu	Honolulu	21.3069444	-157.8583333	PHNL
+http://www.nytimes.com/2011/07/03/travel/36-hours-in-cape-may-nj.html	36 Hours in Cape May, N.J.	Cape May, N.J.	38.9351125	-74.9060053	KACY
+http://www.nytimes.com/2011/06/26/travel/36-hours-in-st-tropez.html	36 Hours in St.-Tropez	St.-Tropez	43.2676808	6.6407109	LFTZ
+http://www.nytimes.com/2011/06/19/travel/36-hours-in-newport-ri.html	36 Hours in Newport, R.I.	Newport, R.I.	41.4901024	-71.3128285	KPVD
+http://www.nytimes.com/2011/06/12/travel/36-hours-in-bologna.html	36 Hours in Bologna	Bologna	44.494887	11.3426163	LIPE
+http://www.nytimes.com/2011/06/05/travel/36-hours-in-stockholm.html	36 Hours in Stockholm	Stockholm	59.3293235	18.0685808	ESSB
+http://www.nytimes.com/2011/05/29/travel/36-hours-in-niagara-falls.html	36 Hours in Niagara Falls	Niagara Falls	43.0962143	-79.0377388	KIAG
+http://www.nytimes.com/2011/05/22/travel/36-hours-in-milan.html	36 Hours in Milan	Milan	45.4654219	9.1859243	LIML
+http://www.nytimes.com/2011/05/15/travel/36-hours-in-san-francisco.html	36 Hours in San Francisco	San Francisco	37.7749295	-122.4194155	KSFO
+http://www.nytimes.com/2011/05/08/travel/08hours-detroit.html	36 Hours in Detroit	Detroit	42.331427	-83.0457538	KDTW
+http://www.nytimes.com/2011/05/01/travel/01hours-singapore.html	36 Hours in Singapore	Singapore	1.352083	103.819836	WSSL
+http://www.nytimes.com/2011/04/24/travel/24hours-panamacity.html	36 Hours in Panama City, Panama	Panama City, Panama	9.1011785	-79.4028639	MPTO
+http://www.nytimes.com/2011/04/17/travel/17hours-amsterdam.html	36 Hours in Amsterdam	Amsterdam	52.3702157	4.8951679	EHAM
+http://www.nytimes.com/2011/04/10/travel/10hours-abu-dhabi.html	36 Hours in Abu Dhabi	Abu Dhabi	24.2991738	54.6972774	OMAA
+http://www.nytimes.com/2011/04/03/travel/03hours-louisville.html	36 Hours in Louisville, Ky.	Louisville, Ky.	38.2526647	-85.7584557	KLOU
+http://www.nytimes.com/2011/03/27/travel/27hours-seattle.html	36 Hours in Seattle	Seattle	47.6062095	-122.3320708	KW55
+http://www.nytimes.com/2011/03/20/travel/20hours-hongkong.html	36 Hours in Hong Kong	Hong Kong	22.396428	114.109497	VHHH
+http://www.nytimes.com/2011/03/06/travel/06hours-orlando.html	36 Hours in Orlando, Fla.	Orlando, Fla.	28.5383355	-81.3792365	KMCO
+http://www.nytimes.com/2011/02/27/travel/27hours-mammoth.html	36 Hours in Mammoth Lakes, Calif.	Mammoth Lakes, Calif.	37.648546	-118.972079	KFAT
+http://www.nytimes.com/2011/02/20/travel/20hours-los-angeles.html	36 Hours in Downtown Los Angeles	Downtown Los Angeles	34.0522342	-118.2436849	KLAX
+http://www.nytimes.com/2011/02/13/travel/13hours-brooklyn.html	36 Hours in Brooklyn	Brooklyn	40.6781784	-73.9441579	
+http://www.nytimes.com/2011/02/06/travel/06hours-santiago.html	36 Hours in Santiago, Chile	Santiago, Chile	-33.4488897	-70.6692655	SCEL
+http://www.nytimes.com/2011/01/30/travel/30hours-lisbon.html	36 Hours in Lisbon	Lisbon	38.7222524	-9.1393366	LPPT
+http://www.nytimes.com/2011/01/23/travel/23hours-valencia.html	36 Hours in Valencia, Spain	Valencia, Spain	39.4699075	-0.3762881	LEVC
+http://www.nytimes.com/2011/01/16/travel/16hours-bali.html	36 Hours in Bali	Bali	-8.4095178	115.188916	WRRR
+http://www.nytimes.com/2011/01/09/travel/09hours.html	36 Hours in Key West, Fla.	Key West, Fla.	24.5550593	-81.7799871	KEYW
+http://www.nytimes.com/2011/01/02/travel/02hours-santacruz.html	36 Hours in Santa Cruz, Calif.	Santa Cruz, Calif.	36.9741171	-122.0307963	KSJC
+http://www.nytimes.com/2010/12/26/travel/26marrakesh-hours.html	36 Hours in Marrakesh, Morocco	Marrakesh, Morocco	31.6294723	-7.9810845	GMMX
+http://www.nytimes.com/2010/12/19/travel/19hours-paris.html	36 Hours in Paris	Paris	48.856614	2.3522219	LFPB
+http://www.nytimes.com/2010/12/12/travel/12hours.html	36 Hours in Sun Valley, Idaho	Sun Valley, Idaho	43.6971294	-114.3517172	KBOI
+http://www.nytimes.com/2010/12/05/travel/05hours.html	36 Hours in Damascus	Damascus	33.5138073	36.2765279	OSDI
+http://www.nytimes.com/2010/11/28/travel/28lauderdale-hours.html	36 Hours in Fort Lauderdale, Fla.	Fort Lauderdale, Fla.	26.1224386	-80.1373174	KFLL
+http://www.nytimes.com/2010/11/21/travel/21cambridge-hours.html	36 Hours in Cambridge, England	Cambridge, England	52.205337	0.121817	EGSC
+http://www.nytimes.com/2010/11/14/travel/14seoul-hours.html	36 Hours in Seoul	Seoul	37.566535	126.9779692	RKSS
+http://www.nytimes.com/2010/11/07/travel/07st-martin-36hours.html	36 Hours in St. Martin/St. Maarten	St. Martin/St. Maarten	18.063853	-63.0565926	TFFG
+http://www.nytimes.com/2010/10/31/travel/31venice-hours.html	36 Hours in Venice	Venice	45.4408474	12.3155151	LIPZ
+http://www.nytimes.com/2010/10/24/travel/24hours.html	36 Hours in Asheville, N.C.	Asheville, N.C.	35.5950581	-82.5514869	KAVL
+http://www.nytimes.com/2010/10/17/travel/17hours.html	36 Hours in Santa Monica, Calif.	Santa Monica, Calif.	34.0194543	-118.4911912	KLAX
+http://www.nytimes.com/2010/10/10/travel/10hours.html	36 Hours in Rome	Rome	41.9027835	12.4963655	LIRA
+http://www.nytimes.com/2010/09/26/travel/26hours.html	36 Hours in Chicago	Chicago	41.8781136	-87.6297982	KMDW
+http://www.nytimes.com/2010/09/19/travel/19hours.html	36 Hours in Rio de Janeiro	Rio de Janeiro	-22.9068467	-43.1728965	SBRJ
+http://www.nytimes.com/2010/09/12/travel/12hours.html	36 Hours in Charleston, S.C.	Charleston, S.C.	32.7764749	-79.9310512	KCHS
+http://www.nytimes.com/2010/09/05/travel/05hours.html	36 Hours in Silicon Valley	Silicon Valley	37.387474	-122.0575434	KSJC
+http://www.nytimes.com/2010/08/29/travel/29hours.html	36 Hours in Sonoma County	Sonoma County	38.5779555	-122.9888319	KOAK
+http://www.nytimes.com/2010/08/22/travel/22hours.html	36 Hours in Portland, Me.	Portland, Me.	43.661471	-70.2553259	KPWM
+http://www.nytimes.com/2010/08/08/travel/08hours.html	36 Hours in Boston	Boston	42.3600825	-71.0588801	KBOS
+http://www.nytimes.com/2010/08/01/travel/01hours.html	36 Hours in East Hampton	East Hampton	40.9634335	-72.1848009	KWST
+http://www.nytimes.com/2010/07/25/travel/25hours.html	36 Hours in Florence	Florence	43.7695604	11.2558136	LIRQ
+http://www.nytimes.com/2010/07/18/travel/18hours.html	36 Hours in Nantucket	Nantucket	41.2834704	-70.099451	KACK
+http://www.nytimes.com/2010/07/11/travel/11hours.html	36 Hours in Copenhagen	Copenhagen	55.6760968	12.5683371	EKCH
+http://www.nytimes.com/2010/06/27/travel/27hours.html	36 Hours in St. Louis	St. Louis	38.6270025	-90.1994042	KSTL
+http://www.nytimes.com/2010/06/20/travel/20hours.html	36 Hours in Bordeaux, France	Bordeaux, France	44.837789	-0.57918	LFBD
+http://www.nytimes.com/2010/06/06/travel/06hours.html	36 Hours in Salt Lake City	Salt Lake City	40.7607793	-111.8910474	KSLC
+http://www.nytimes.com/2010/05/30/travel/30hours.html	36 Hours in Genoa, Italy	Genoa, Italy	44.4056499	8.946256	LIMJ
+http://www.nytimes.com/2010/05/23/travel/23hours.html	36 Hours in Santa Fe	Santa Fe	35.6869752	-105.937799	KABQ
+http://www.nytimes.com/2010/05/16/travel/16hours.html	36 Hours in Kansas City, Mo.	Kansas City, Mo.	39.0997265	-94.5785667	KMCI
+http://www.nytimes.com/2010/05/09/travel/09hours.html	36 Hours in Houston	Houston	29.7604267	-95.3698028	KHOU
+http://www.nytimes.com/2010/05/02/travel/02hours.html	36 Hours in Beirut	Beirut	33.8886289	35.4954794	OLBA
+http://www.nytimes.com/2010/04/25/travel/25hours.html	36 Hours in Kyoto, Japan	Kyoto, Japan	35.0116363	135.7680294	RJOO
+http://www.nytimes.com/2010/04/11/travel/11hours.html	36 Hours in Sydney	Sydney	-33.8674869	151.2069902	YSSY
+http://www.nytimes.com/2010/04/04/travel/04hours.html	36 Hours in San Antonio	San Antonio	29.4241219	-98.4936282	KSAT
+http://www.nytimes.com/2010/03/28/travel/28hours.html	36 Hours in Naples, Fla.	Naples, Fla.	26.1420358	-81.7948103	KAPF
+http://www.nytimes.com/2010/03/21/travel/21hours.html	36 Hours in Phuket, Thailand	Phuket, Thailand	7.9519331	98.3380884	VTSP
+http://www.nytimes.com/2010/03/14/travel/14hours.html	36 Hours in Goa, India	Goa, India	15.2993265	74.123996	VAGO
+http://www.nytimes.com/2010/03/07/travel/07hours.html	36 Hours in Palm Beach, Fla.	Palm Beach, Fla.	26.7056206	-80.0364297	KPBI
+http://www.nytimes.com/2010/02/28/travel/28hours.html	36 Hours in Telluride, Colo.	Telluride, Colo.	37.9374939	-107.8122852	KTEX
+http://www.nytimes.com/2010/02/21/travel/21hours.html	36 Hours in Vieques	Vieques	18.1262854	-65.4400985	
+http://www.nytimes.com/2010/02/14/travel/14hours.html	36 Hours in Vancouver, British Columbia	Vancouver, British Columbia	49.2827291	-123.1207375	CYHC
+http://www.nytimes.com/2010/02/07/travel/07hours.html	36 Hours in Istanbul	Istanbul	41.0082376	28.9783589	LTBA
+http://www.nytimes.com/2010/01/31/travel/31hours.html	36 Hours in Buenos Aires	Buenos Aires	-34.6036844	-58.3815591	SABE
+http://www.nytimes.com/2010/01/24/travel/24hours.html	36 Hours in Mexico City	Mexico City	19.4326077	-99.133208	MMMX
+http://www.nytimes.com/2010/01/17/travel/17hours.html	36 Hours in Whistler, British Columbia	Whistler, British Columbia	50.1163196	-122.9573563	
+http://www.nytimes.com/2010/01/10/travel/10hours.html	36 Hours in New York City	New York City	40.7127837	-74.0059413	
+http://www.nytimes.com/2010/01/03/travel/03hours.html	36 Hours in Tucson, Ariz.	Tucson, Ariz.	32.2217429	-110.926479	KTUS
+http://www.nytimes.com/2009/12/27/travel/27hours.html	36 Hours in San Miguel de Allende, Mexico	San Miguel de Allende, Mexico	20.9144491	-100.745235	MMQT
+http://www.nytimes.com/2009/12/20/travel/20hours.html	36 Hours in Kuala Lumpur	Kuala Lumpur	3.139003	101.686855	WMSA
+http://www.nytimes.com/2009/12/13/travel/13hours.html	36 Hours in Stowe, Vt.	Stowe, Vt.	44.4654332	-72.6874023	KBTV
+http://www.nytimes.com/2009/12/06/travel/06hours.html	36 Hours in South Beach, Fla.	South Beach, Fla.	27.5897323	-80.3331127	KMLB
+http://www.nytimes.com/2009/11/29/travel/29hours.html	36 Hours in Austin, Tex.	Austin, Tex.	30.267153	-97.7430608	KATT
+http://www.nytimes.com/2009/11/22/travel/22hours.html	36 Hours in Rajasthan, India	Rajasthan, India	27.0238036	74.2179326	VIJO
+http://www.nytimes.com/2009/11/15/travel/15hours.html	36 Hours in Turks and Caicos	Turks and Caicos	21.694025	-71.797928	MBMC
+http://www.nytimes.com/2009/11/08/travel/08hours.html	36 Hours in Nashville	Nashville	36.1626638	-86.7816016	KBNA
+http://www.nytimes.com/2009/11/01/travel/01hours.html	36 Hours in Sacramento	Sacramento	38.5815719	-121.4943996	KSMF
+http://www.nytimes.com/2009/10/25/travel/25hours.html	36 Hours in Montevideo, Uruguay	Montevideo, Uruguay	-34.9011127	-56.1645314	SUMU
+http://www.nytimes.com/2009/10/18/travel/18hours.html	36 Hours in Richmond, Va.	Richmond, Va.	37.5407246	-77.4360481	KRIC
+http://www.nytimes.com/2009/10/04/travel/04hours.html	36 Hours in Baltimore	Baltimore	39.2903848	-76.6121893	KBWI
+http://www.nytimes.com/2009/09/27/travel/27hours.html	36 Hours in Bermuda	Bermuda	32.3078	-64.7505	TXKF
+http://www.nytimes.com/2009/09/20/travel/20hours.html	36 Hours in Cleveland	Cleveland	41.49932	-81.6943605	KBKL
+http://www.nytimes.com/2009/09/13/travel/13hours.html	36 Hours in Zurich	Zurich	47.3768866	8.541694	LSZH
+http://www.nytimes.com/2009/09/06/travel/06hours.html	36 Hours in Zagreb, Croatia	Zagreb, Croatia	45.8150108	15.981919	LDZA
+http://www.nytimes.com/2009/08/30/travel/30hours.html	36 Hours in Juneau, Alaska	Juneau, Alaska	58.3019444	-134.4197222	PAJN
+http://www.nytimes.com/2009/08/23/travel/23hour.html	36 Hours in Oslo	Oslo	59.9138688	10.7522454	ENGM
+http://www.nytimes.com/2009/08/16/travel/16hours.html	36 Hours in Warsaw	Warsaw	52.2296756	21.0122287	EPWA
+http://www.nytimes.com/2009/08/09/travel/09hours.html	36 Hours in Tulum, Mexico	Tulum, Mexico	20.2114185	-87.4653502	MMCZ
+http://www.nytimes.com/2009/08/02/travel/02hours.html	36 Hours in Glasgow	Glasgow	55.864237	-4.251806	EGPF
+http://www.nytimes.com/2009/07/19/travel/19hour.html	36 Hours in Cincinnati	Cincinnati	39.1031182	-84.5120196	KCVG
+http://www.nytimes.com/2009/07/12/travel/12hours.html	36 Hours in Aix-en-Provence	Aix-en-Provence	43.529742	5.447427	LFML
+http://www.nytimes.com/2009/07/05/travel/05Hours.html	36 Hours in Madison, Wis.	Madison, Wis.	43.0730517	-89.4012302	KMSN
+http://www.nytimes.com/2009/06/28/travel/28Hour.html	36 Hours in Cork, Ireland	Cork, Ireland	51.8968917	-8.4863157	EICK
+http://www.nytimes.com/2009/06/21/travel/21hours.html	36 Hours in Malibu	Malibu	34.0259216	-118.7797571	KLAX
+http://www.nytimes.com/2009/06/14/travel/14hours.html	36 Hours in Research Triangle, N.C.	Research Triangle, N.C.	35.8991678	-78.8636402	KRDU
+http://www.nytimes.com/2009/06/07/travel/07hours.html	36 Hours in Williamsburg, Va.	Williamsburg, Va.	37.2707022	-76.7074571	KPHF
+http://www.nytimes.com/2009/05/24/travel/24hours.html	36 Hours in Prague	Prague	50.0755381	14.4378005	LKPR
+http://www.nytimes.com/2009/05/17/travel/17hours.html	36 Hours in Toronto	Toronto	43.653226	-79.3831843	
+http://www.nytimes.com/2009/05/10/travel/10hours.html	36 Hours in Philadelphia	Philadelphia	39.9525839	-75.1652215	KPHL
+http://www.nytimes.com/2009/05/03/travel/03hours.html	36 Hours in Oakland, Calif.	Oakland, Calif.	37.8043637	-122.2711137	KOAK
+http://www.nytimes.com/2009/04/26/travel/26hour.html	36 Hours in Barcelona	Barcelona	41.3850639	2.1734035	LEBL
+http://www.nytimes.com/2009/04/19/travel/19hours.html	36 Hours in Birmingham, Ala.	Birmingham, Ala.	33.5206608	-86.80249	KBHM
+http://www.nytimes.com/2009/04/12/travel/12hours.html	36 Hours in Palm Springs, Calif.	Palm Springs, Calif.	33.8302961	-116.5452921	KPSP
+http://www.nytimes.com/2009/04/05/travel/05hours.html	36 Hours in Hanoi	Hanoi	21.0277644	105.8341598	VVNB
+http://www.nytimes.com/2009/03/29/travel/29hours.html	36 Hours in Majorca	Majorca	39.6952629	3.0175712	LEPA
+http://www.nytimes.com/2009/03/22/travel/22hours.html	36 Hours in Doha, Qatar	Doha, Qatar	25.2854473	51.5310398	OTBD
+http://www.nytimes.com/2009/03/15/travel/15hours.html	36 Hours in Shanghai	Shanghai	31.230416	121.473701	ZSSS
+http://www.nytimes.com/2009/03/08/travel/08hours.html	36 Hours in Madrid	Madrid	40.4167754	-3.7037902	LEMD
+http://www.nytimes.com/2009/03/01/travel/01hourscol.html	36 Hours in Salvador, Brazil	Salvador, Brazil	-12.9730401	-38.502304	SBSV
+http://www.nytimes.com/2009/02/22/travel/22hours.html	36 Hours in North Lake Tahoe	North Lake Tahoe	39.0968493	-120.0323507	KRNO
+http://www.nytimes.com/2009/02/15/travel/15hours.html	36 Hours in Antigua	Antigua	17.0746557	-61.8175207	TAPA
+http://www.nytimes.com/2009/02/01/travel/01hours.html	36 Hours in Vail, Colo.	Vail, Colo.	39.6402638	-106.3741955	KEGE
+http://www.nytimes.com/2009/01/25/travel/25hours.html	36 Hours in Carmel-by-the-Sea	Carmel-by-the-Sea	36.5552386	-121.9232879	KMRY
+http://www.nytimes.com/2009/01/18/travel/18hours.html	36 Hours in Washington, D.C.	Washington, D.C.	38.9071923	-77.0368707	KDCA
+http://www.nytimes.com/2009/01/11/travel/11hours.html	36 Hours in Reykjavik, Iceland	Reykjavik, Iceland	64.1265206	-21.8174393	BIRK
+http://www.nytimes.com/2009/01/04/travel/04hours.html	36 Hours in Maui	Maui	20.7983626	-156.3319253	PHOG
+http://www.nytimes.com/2008/12/28/travel/28hours.html	36 Hours in Siem Reap, Cambodia	Siem Reap, Cambodia	13.3670968	103.8448134	VDSR
+http://www.nytimes.com/2008/12/21/travel/21hours.html	36 Hours in Ho Chi Minh City	Ho Chi Minh City	10.8230989	106.6296638	VVTS
+http://www.nytimes.com/2008/12/14/travel/14hours.html	36 Hours in Lisbon	Lisbon	38.7222524	-9.1393366	LPPT
+http://www.nytimes.com/2008/12/07/travel/07hours.html	36 Hours in Zermatt, Switzerland	Zermatt, Switzerland	46.0207133	7.749117	LIMC
+http://www.nytimes.com/2008/11/30/travel/30hours.html	36 Hours in Phoenix	Phoenix	33.4483771	-112.0740373	KPHX
+http://www.nytimes.com/2008/11/23/travel/23hours.html	36 Hours in Seattle	Seattle	47.6062095	-122.3320708	KW55
+http://www.nytimes.com/2008/11/16/travel/16hours.html	36 Hours in Santa Barbara	Santa Barbara	34.4208305	-119.6981901	KSBA
+http://www.nytimes.com/2008/11/09/travel/09hours.html	36 Hours in Santo Domingo	Santo Domingo	18.4860575	-69.9312117	MDSD
+http://www.nytimes.com/2008/11/02/travel/02hours.html	36 Hours in Burlington, Vt.	Burlington, Vt.	44.4758825	-73.212072	KBTV
+http://www.nytimes.com/2008/10/26/travel/26hours.html	36 Hours in Charlottesville, Va.	Charlottesville, Va.	38.0293059	-78.4766781	KCHO
+http://www.nytimes.com/2008/10/19/travel/19hours.html	36 Hours in Paris	Paris	48.856614	2.3522219	LFPB
+http://www.nytimes.com/2008/10/05/travel/05hours.html	36 Hours in Milwaukee	Milwaukee	43.0389025	-87.9064736	KMKE
+http://www.nytimes.com/2008/09/28/travel/28hours.html	36 Hours in Brighton, England	Brighton, England	50.82253	-0.137163	EGKK
+http://www.nytimes.com/2008/09/21/travel/21hours.html	36 Hours in Phnom Penh	Phnom Penh	11.5448729	104.8921668	VDPP
+http://www.nytimes.com/2008/09/14/travel/14hours.html	36 Hours in San Francisco	San Francisco	37.7749295	-122.4194155	KSFO
+http://www.nytimes.com/2008/09/07/travel/07hours.html	36 Hours in San Diego	San Diego	32.715738	-117.1610838	KSAN
+http://www.nytimes.com/2008/08/31/travel/31hours.html	36 Hours in Biarritz	Biarritz	43.4831519	-1.558626	LFBZ
+http://www.nytimes.com/2008/08/24/travel/24hours.html	36 Hours in Mykonos, Greece	Mykonos, Greece	37.4467185	25.3288623	LGMK
+http://www.nytimes.com/2008/08/17/travel/17hours.html	36 Hours in Minneapolis-St. Paul	Minneapolis-St. Paul	44.9716692	-93.2806134	KMSP
+http://www.nytimes.com/2008/08/10/travel/10Hours.html	36 Hours in Denver	Denver	39.7392358	-104.990251	KAPA
+http://www.nytimes.com/2008/08/03/travel/03hours.html	36 Hours in Providence, R.I.	Providence, R.I.	41.8239891	-71.4128343	KPVD
+http://www.nytimes.com/2008/07/27/travel/27hours.html	36 Hours in Palermo	Palermo	38.1156879	13.3612671	LICJ
+http://www.nytimes.com/2008/07/20/travel/20hours.html	36 Hours in Toulouse	Toulouse	43.604652	1.444209	LFBO
+http://www.nytimes.com/2008/07/13/travel/13hours.html	36 Hours in Dublin	Dublin	53.3498053	-6.2603097	EIDW
+http://www.nytimes.com/2008/07/06/travel/06hours.html	36 Hours in Pittsburgh	Pittsburgh	40.4406248	-79.9958864	KPIT
+http://www.nytimes.com/2008/06/29/travel/29hours.html	36 Hours in Bangkok	Bangkok	13.7563309	100.5017651	VTBS
+http://www.nytimes.com/2008/06/22/travel/22hours.html	36 Hours in Mumbai	Mumbai	19.0759837	72.8776559	VABB
+http://www.nytimes.com/2008/06/15/travel/15hours.html	36 Hours in Vienna	Vienna	48.2081743	16.3738189	LOWW
+http://www.nytimes.com/2008/06/08/travel/08Hours.html	36 Hours in Knoxville	Knoxville	35.9606384	-83.9207392	KTYS
+http://www.nytimes.com/2008/06/01/travel/01Hours.html	36 Hours in Lima, Peru	Lima, Peru	-12.046374	-77.0427934	SPIM
+http://www.nytimes.com/2008/05/25/travel/25hours.html	36 Hours in Cartagena, Colombia	Cartagena, Colombia	10.3910485	-75.4794257	SKCG
+http://www.nytimes.com/2008/05/18/travel/18hours-1.html	36 Hours in Luang Prabang, Laos	Luang Prabang, Laos	19.8833959	102.1346874	VLLB
+http://www.nytimes.com/2008/05/11/travel/11hours.html	36 Hours in Liverpool, England	Liverpool, England	53.4083714	-2.9915726	EGGP
+http://www.nytimes.com/2008/05/04/travel/04hours.html	36 Hours in Athens, Greece	Athens, Greece	37.983917	23.7293599	LGAV
+http://www.nytimes.com/2008/04/27/travel/27hours.html	36 Hours in Naples, Italy	Naples, Italy	40.8517746	14.2681244	LIRN
+http://www.nytimes.com/2008/04/20/travel/20hours.html	36 Hours in London	London	51.5073509	-0.1277583	EGLC
+http://www.nytimes.com/2008/04/13/travel/13hours.html	36 Hours in Chiang Mai, Thailand	Chiang Mai, Thailand	18.787747	98.9931284	VTCC
+http://www.nytimes.com/2008/03/30/travel/30hours.html	36 Hours in Berkeley, Calif.	Berkeley, Calif.	37.8715926	-122.272747	KOAK
+http://www.nytimes.com/2008/03/23/travel/23hours.html	36 Hours in New Delhi	New Delhi	28.6139391	77.2090212	VIDP
+http://www.nytimes.com/2008/03/16/travel/16hours.html	36 Hours in Pasadena, Calif.	Pasadena, Calif.	34.1477849	-118.1445155	KBUR
+http://www.nytimes.com/2008/03/09/travel/09hours.html	36 Hours in Puebla, Mexico	Puebla, Mexico	19.0412967	-98.2061996	MMPB
+http://www.nytimes.com/2008/03/02/travel/02hours.html	36 Hours in Taipei, Taiwan	Taipei, Taiwan	25.0329694	121.5654177	RCSS
+http://www.nytimes.com/2008/02/24/travel/24hours.html	36 Hours in Mont Tremblant, Quebec	Mont Tremblant, Quebec	46.1184616	-74.5961852	CYMX
+http://www.nytimes.com/2008/02/17/travel/17hours.html	36 Hours in St. Barts	St. Barts	32.667583	-114.5132575	KNYL
+http://www.nytimes.com/2008/02/10/travel/10hours.html	36 Hours in Napa Valley	Napa Valley	38.4274315	-122.3943299	KSMF
+http://www.nytimes.com/2008/02/03/travel/03hours.html	36 Hours in Cairo	Cairo	30.0444196	31.2357116	HECA
+http://www.nytimes.com/2008/01/27/travel/27hours.html	36 Hours in Cape Town	Cape Town	-33.9248685	18.4240553	FACT
+http://www.nytimes.com/2008/01/20/travel/20hours.html	36 Hours in Breckenridge, Colo.	Breckenridge, Colo.	39.4816537	-106.0383518	KEGE
+http://www.nytimes.com/2008/01/13/travel/13hours.html	36 Hours in Hollywood	Hollywood	34.0928092	-118.3286614	KBUR
+http://www.nytimes.com/2008/01/06/travel/06hours.html	36 Hours in Melbourne, Australia	Melbourne, Australia	-37.814107	144.96328	YMML
+http://www.nytimes.com/2007/12/30/travel/30hours.html	36 Hours in Sarasota, Fla.	Sarasota, Fla.	27.3364347	-82.5306527	KSRQ
+http://www.nytimes.com/2007/12/23/travel/23hours.html	36 Hours in Singapore	Singapore	1.352083	103.819836	WSSL
+http://www.nytimes.com/2007/12/16/travel/16hours.html	36 Hours in New Orleans	New Orleans	29.9510658	-90.0715323	KMSY
+http://www.nytimes.com/2007/12/09/travel/09hours.html	36 Hours in Beijing	Beijing	39.904211	116.407395	ZBAA
+http://www.nytimes.com/2007/12/02/travel/02hours.html	36 Hours in Park City, Utah	Park City, Utah	40.6460622	-111.4979729	KSLC
+http://www.nytimes.com/2007/11/25/travel/25hours.html	36 Hours in Oaxaca, Mexico	Oaxaca, Mexico	17.0594169	-96.7216219	MMOX
+http://www.nytimes.com/2007/11/11/travel/11hours.html	36 Hours in Marrakesh, Morocco	Marrakesh, Morocco	31.6294723	-7.9810845	GMMX
+http://www.nytimes.com/2007/11/04/travel/04hours.html	36 Hours in Ibiza, Spain	Ibiza, Spain	38.9067339	1.4205983	LEIB
+http://www.nytimes.com/2007/10/28/travel/28hours.html	36 Hours in Nassau, the Bahamas	Nassau, the Bahamas	25.0479835	-77.355413	MYNN
+http://www.nytimes.com/2007/10/21/travel/21hours.html	36 Hours in Riga, Latvia	Riga, Latvia	56.9496487	24.1051864	EVRA
+http://www.nytimes.com/2007/09/30/travel/30hours.html	36 Hours in Asheville, N.C.	Asheville, N.C.	35.5950581	-82.5514869	KAVL
+http://www.nytimes.com/2007/09/23/travel/23hours.html	36 Hours in Bologna	Bologna	44.494887	11.3426163	LIPE
+http://www.nytimes.com/2007/09/16/travel/16hours.html	36 Hours in Geneva	Geneva	46.2043907	6.1431577	LSGG
+http://www.nytimes.com/2007/09/09/travel/09hours.html	36 Hours in Stockholm	Stockholm	59.3293235	18.0685808	ESSB
+http://www.nytimes.com/2007/09/02/travel/02hours.html	36 Hours in Seville	Seville	37.3890924	-5.9844589	LEZL
+http://www.nytimes.com/2007/08/19/travel/19hours.html	36 Hours in Frankfurt	Frankfurt	50.1109221	8.6821267	EDDF
+http://www.nytimes.com/2007/08/12/travel/12hours.html	36 Hours in Budapest	Budapest	47.497912	19.040235	LHBP
+http://www.nytimes.com/2007/08/05/travel/05hours.html	36 Hours in the Cinque Terre, Italy	the Cinque Terre, Italy	44.128109	9.7123907	LIRP
+http://www.nytimes.com/2007/07/29/travel/29hours.html	36 Hours in Edinburgh	Edinburgh	55.953252	-3.188267	EGPH
+http://www.nytimes.com/2007/07/22/travel/22hours.html	36 Hours in Amsterdam	Amsterdam	52.3702157	4.8951679	EHAM
+http://www.nytimes.com/2007/07/15/travel/15hours.html	36 Hours in Vancouver	Vancouver	45.6387281	-122.6614861	KPDX
+http://www.nytimes.com/2007/07/01/travel/01hours.html	36 Hours in Savannah, Ga.	Savannah, Ga.	32.0835407	-81.0998342	KSAV
+http://www.nytimes.com/2007/06/24/travel/24hours.html	36 Hours in Bali	Bali	-8.4095178	115.188916	WRRR
+http://www.nytimes.com/2007/06/17/travel/17hours.html	36 Hours in Milan	Milan	45.4654219	9.1859243	LIML
+http://www.nytimes.com/2007/06/10/travel/10hours.html	36 Hours in New York	New York	40.7127837	-74.0059413	
+http://www.nytimes.com/2007/06/03/travel/03hours.html	36 Hours in Florence	Florence	43.7695604	11.2558136	LIRQ
+http://www.nytimes.com/2007/05/20/travel/20hours.html	36 Hours in Baltimore	Baltimore	39.2903848	-76.6121893	KBWI
+http://www.nytimes.com/2007/05/13/travel/13hours.html	36 Hours in St. Petersburg, Russia	St. Petersburg, Russia	59.9342802	30.3350986	ULLI
+http://www.nytimes.com/2007/05/06/travel/06hours.html	36 Hours in Istanbul	Istanbul	41.0082376	28.9783589	LTBA
+http://www.nytimes.com/2007/04/29/travel/29hours.html	36 Hours in Key West, Fla.	Key West, Fla.	24.5550593	-81.7799871	KEYW
+http://www.nytimes.com/2007/04/22/travel/22hours.html	36 Hours in Dublin	Dublin	53.3498053	-6.2603097	EIDW
+http://www.nytimes.com/2007/04/08/travel/08hours.html	36 Hours in Hong Kong	Hong Kong	22.396428	114.109497	VHHH
+http://www.nytimes.com/2007/04/01/travel/01hours.html	36 Hours in Orlando, Fla.	Orlando, Fla.	28.5383355	-81.3792365	KMCO
+http://www.nytimes.com/2007/03/25/travel/25hours.1.html	36 Hours in Prague	Prague	50.0755381	14.4378005	LKPR
+http://www.nytimes.com/2007/03/18/travel/18hours.1.html	36 Hours in Nairobi, Kenya	Nairobi, Kenya	-1.2920659	36.8219462	HKNW
+http://www.nytimes.com/2007/03/11/travel/11hours.1.html	36 Hours in Charleston, S.C.	Charleston, S.C.	32.7764749	-79.9310512	KCHS
+http://www.nytimes.com/2007/03/04/travel/04hours.1.html	36 Hours in Barcelona	Barcelona	41.3850639	2.1734035	LEBL
+http://www.nytimes.com/2007/02/25/travel/25hours.html	36 Hours in Rio de Janeiro	Rio de Janeiro	-22.9068467	-43.1728965	SBRJ
+http://www.nytimes.com/2007/02/18/travel/18hours.html	36 Hours in Mexico City	Mexico City	19.4326077	-99.133208	MMMX
+http://www.nytimes.com/2007/02/11/travel/11hours.html	36 Hours in Sedona, Ariz.	Sedona, Ariz.	34.8697395	-111.7609896	KFLG
+http://www.nytimes.com/2007/02/04/travel/04webhours2.html	36 Hours in Buenos Aires	Buenos Aires	-34.6036844	-58.3815591	SABE
+http://www.nytimes.com/2007/02/04/travel/04hours.html	36 Hours in Aspen, Colo.	Aspen, Colo.	39.1910983	-106.8175387	KEGE
+http://www.nytimes.com/2007/01/28/travel/28hours.html	36 Hours in Madrid	Madrid	40.4167754	-3.7037902	LEMD
+http://www.nytimes.com/2007/01/14/travel/14hours.html	36 Hours in Scottsdale, Ariz.	Scottsdale, Ariz.	33.4941704	-111.9260519	KPHX
+http://www.nytimes.com/2007/01/07/travel/07hours.html	36 Hours in Atlanta	Atlanta	33.7489954	-84.3879824	KATL
+http://www.nytimes.com/2006/12/31/travel/31hours.html	36 Hours in London	London	51.5073509	-0.1277583	EGLC
+http://www.nytimes.com/2006/12/17/travel/17hours.html	36 Hours in Rome	Rome	41.9027835	12.4963655	LIRA
+http://www.nytimes.com/2006/12/03/travel/03hours.html	36 Hours in Venice	Venice	45.4408474	12.3155151	LIPZ
+http://www.nytimes.com/2006/11/26/travel/26hours.html	36 Hours in Philadelphia	Philadelphia	39.9525839	-75.1652215	KPHL
+http://www.nytimes.com/2006/11/19/travel/19hours.html	36 Hours in Whistler	Whistler	50.1163196	-122.9573563	
+http://www.nytimes.com/2006/11/12/travel/12hours.html	36 Hours in Sydney	Sydney	-33.8674869	151.2069902	YSSY
