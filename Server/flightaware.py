@@ -8,7 +8,7 @@ import json
 import urllib
 import urllib2
 import random
-
+from nyt_36hours import articlesearch
 
 username = 'tamori'
 apiKey = '7d7c51dff7c200bd3ee9c484605f0e29dd6746d7'
@@ -29,6 +29,9 @@ def flightaware(IATACode):
 	#except:
 	#	print "error"
 	icao = root['response'][0]['icao']
+	
+	#Get News
+	newsjson = articlesearch(icao)[1:-1]
 	
 	logging.basicConfig(level=logging.INFO)
 	api = Client(url, username=username, password=apiKey)
@@ -62,7 +65,7 @@ def flightaware(IATACode):
 	#print imgurl_dest
 	#print imgurl_dest
 	
-	jsontxt = '{ "ident":"%s", "aircrafttype":"%s", "filed_departuretime":%d, "estimatedarrivaltime":%d, "origin":"%s", "destination":"%s", "originName":"%s", "originCity":"%s", "destinationName":"%s", "destinationCity":"%s", "origCityImgUrl":["%s", "%s", "%s"], "destCityImgUrl":["%s","%s","%s"]}' % (flights['ident'],flights['aircrafttype'],flights['filed_departuretime'],flights['estimatedarrivaltime'],flights['origin'],flights['destination'],flights['originName'],flights['originCity'],flights['destinationName'],flights['destinationCity'],imgurl_o_0,imgurl_o_1,imgurl_o_2,imgurl_d_0,imgurl_d_1,imgurl_d_2)
+	jsontxt = '{ "ident":"%s", "aircrafttype":"%s", "filed_departuretime":%d, "estimatedarrivaltime":%d, "origin":"%s", "destination":"%s", "originName":"%s", "originCity":"%s", "destinationName":"%s", "destinationCity":"%s", "origCityImgUrl":["%s", "%s", "%s"], "destCityImgUrl":["%s","%s","%s"], %s}' % (flights['ident'],flights['aircrafttype'],flights['filed_departuretime'],flights['estimatedarrivaltime'],flights['origin'],flights['destination'],flights['originName'],flights['originCity'],flights['destinationName'],flights['destinationCity'],imgurl_o_0,imgurl_o_1,imgurl_o_2,imgurl_d_0,imgurl_d_1,imgurl_d_2, newsjson)
 	print jsontxt
 	return jsontxt
 
